@@ -75,10 +75,10 @@ To get a local copy up and running, follow these simple steps.
 
 ### Installation
 
-1.  \*\*Clone the repository:\*\*sh
-    git clone [https://github.com/your\_username/yaqeen.git](https://www.google.com/search?q=https://github.com/your_username/yaqeen.git)
+1.  **Clone the repository:**
 
-    ```
+    ```sh
+    git clone https://github.com/NafisianCastle/Yaqeen.git
     
     ```
 
