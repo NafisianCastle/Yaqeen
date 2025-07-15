@@ -1,22 +1,22 @@
 # Yaqeen (یقین)
 
-\<br/\>
-\<p align="center"\>
-\<a href="[https://github.com/NafisianCastle/Yaqeen](https://www.google.com/search?q=https://github.com/NafisianCastle/Yaqeen)"\>
-\<img src="[https://place-hold.it/80x80/673ab7/ffffff\&text=YQ](https://www.google.com/search?q=https://place-hold.it/80x80/673ab7/ffffff%26text%3DYQ)" alt="Logo" width="80" height="80"\>
-\</a\>
+<br/>
+<p align="center">
+<a href="[https://github.com/NafisianCastle/Yaqeen](https://www.google.com/search?q=https://github.com/NafisianCastle/Yaqeen)"\>
+<img src="[https://place-hold.it/80x80/673ab7/ffffff\&text=YQ](https://www.google.com/search?q=https://place-hold.it/80x80/673ab7/ffffff%26text%3DYQ)" alt="Logo" width="80" height="80"\>
+</a>
 
-\<h3 align="center"\>Yaqeen: A Spiritual Habit Tracker\</h3\>
+<h3 align="center">Yaqeen: A Spiritual Habit Tracker</h3>
 
-\<p align="center"\>
+<p align="center">
 A cross-platform mobile application designed to help Muslims build consistency and flow in their daily spiritual practices through a structured, gamified, and personalized experience.
-\<br/\>
-\<br/\>
-\<a href="[https://github.com/NafisianCastle/Yaqeen/issues](https://www.google.com/search?q=https://github.com/NafisianCastle/Yaqeen/issues)"\>Report Bug\</a\>
+<br/>
+<br/>
+<a href="[https://github.com/NafisianCastle/Yaqeen/issues](https://www.google.com/search?q=https://github.com/NafisianCastle/Yaqeen/issues)">Report Bug\</a>
 ·
-\<a href="[https://github.com/NafisianCastle/Yaqeen/issues](https://www.google.com/search?q=https://github.com/NafisianCastle/Yaqeen/issues)"\>Request Feature\</a\>
-\</p\>
-\</p\>
+<a href="[https://github.com/NafisianCastle/Yaqeen/issues](https://www.google.com/search?q=https://github.com/NafisianCastle/Yaqeen/issues)"\>Request Feature\</a>
+</p>
+</p>
 
 -----
 
