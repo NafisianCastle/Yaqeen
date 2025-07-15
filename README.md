@@ -12,9 +12,9 @@
 A cross-platform mobile application designed to help Muslims build consistency and flow in their daily spiritual practices through a structured, gamified, and personalized experience.
 <br/>
 <br/>
-<a href="[https://github.com/NafisianCastle/Yaqeen/issues](https://www.google.com/search?q=https://github.com/NafisianCastle/Yaqeen/issues)">Report Bug\</a>
+<a href="[https://github.com/NafisianCastle/Yaqeen/issues](https://www.google.com/search?q=https://github.com/NafisianCastle/Yaqeen/issues)">Report Bug</a>
 ·
-<a href="[https://github.com/NafisianCastle/Yaqeen/issues](https://www.google.com/search?q=https://github.com/NafisianCastle/Yaqeen/issues)"\>Request Feature\</a>
+<a href="[https://github.com/NafisianCastle/Yaqeen/issues](https://www.google.com/search?q=https://github.com/NafisianCastle/Yaqeen/issues)">Request Feature</a>
 </p>
 </p>
 
