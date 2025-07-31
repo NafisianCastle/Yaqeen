@@ -10,7 +10,7 @@
         public int TaskId { get; set; }
         public UserTask Task { get; set; }
 
-        public DateTime CompletionDate { get; set; }
+        public DateTime  CompletionDate { get; set; }
         public int PointsAwarded { get; set; }
     }
 }

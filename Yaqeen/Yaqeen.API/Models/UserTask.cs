@@ -6,7 +6,7 @@
         public string Title { get; set; }
         public string Description { get; set; }
         public string ContentType { get; set; }
-        public string ContentReference { get; set; }
+        public string? ContentReference { get; set; }
 
         public int? TaskScheduleId { get; set; }
         public TaskSchedule TaskSchedule { get; set; }

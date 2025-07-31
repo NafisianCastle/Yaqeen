@@ -1,4 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using Microsoft.VisualBasic;
 using Yaqeen.API.Models;
 
 /// <summary>
@@ -109,6 +110,9 @@ public class ApplicationDbContext : DbContext
 
             entity.Property(cut => cut.IsCompleted)
                   .IsRequired();
+
+            entity.Property(cut => cut.DueDate)
+                  .HasColumnType("timestamp with time zone");
         });
 
         // REWARD
@@ -248,8 +252,8 @@ public class ApplicationDbContext : DbContext
         );
 
         modelBuilder.Entity<CustomUserTask>().HasData(
-            new CustomUserTask { Id = 1, UserId = 2, Title = "Read Islamic book 10 mins", IsCompleted = false, DueDate = DateTime.Today.AddDays(1) },
-            new CustomUserTask { Id = 2, UserId = 3, Title = "Volunteer at mosque", IsCompleted = false, DueDate = DateTime.Today.AddDays(3) }
+            new CustomUserTask { Id = 1, UserId = 2, Title = "Read Islamic book 10 mins", IsCompleted = false, DueDate = new DateTime(2025, 7, 16, 0, 0, 0, DateTimeKind.Utc) },
+            new CustomUserTask { Id = 2, UserId = 3, Title = "Volunteer at mosque", IsCompleted = false, DueDate = new DateTime(2025, 7, 16, 0, 0, 0, DateTimeKind.Utc) }
         );
 
         modelBuilder.Entity<Reward>().HasData(
@@ -259,7 +263,16 @@ public class ApplicationDbContext : DbContext
             new Reward { Id = 4, Name = "Advanced Access", Description = "Unlock Advanced Level", PointCost = 250, Type = RewardType.Virtual, IsActive = true }
         );
 
-
+        modelBuilder.Entity<UserProgress>().HasData(
+            new UserProgress
+            {
+                Id = 1,
+                UserId = 1,
+                TaskId = 1,
+                CompletionDate = new DateTime(2025, 7, 16, 0, 0, 0, DateTimeKind.Utc),
+                PointsAwarded = 10
+            }
+        );
     }
 
 
